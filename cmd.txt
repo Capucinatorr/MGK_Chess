@@ -1,0 +1,1 @@
+{"table": "Shows sorted table.", "reg": "Adds a new player or adds 1 tournament to exhisting.", "game": "Adds game results to both players.", "exit": "Closes program and saves all changes"}
